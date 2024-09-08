@@ -30,7 +30,7 @@
 ### Other Knowledge:
 
 
-![godot]((https://img.shields.io/badge/-godot-0D1117?style=for-the-badge&logo=godot&labelColor=0D1117)&nbsp);
+![godot](https://img.shields.io/badge/-godot-0D1117?style=for-the-badge&logo=godot&labelColor=0D1117)&nbsp;
 ![powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbil&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
